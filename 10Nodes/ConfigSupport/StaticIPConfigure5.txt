@@ -1,0 +1,3 @@
+# Invalid lines in this file are ignored by the GUI.
+# Invalid entry may lead unexpected behavior by NetSim simulation engine.
+route ADD 192.168.0.11 MASK 255.255.255.255 192.168.0.7 METRIC 1 IF 1
