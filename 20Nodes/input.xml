@@ -15,7 +15,7 @@
     <ZOOM_LEVEL>To be done</ZOOM_LEVEL>
     <NETWORK_NAME>Mobile_Adhoc_Networks</NETWORK_NAME>
     <GRID_WIDTH>1000</GRID_WIDTH>
-    <GRID_LENGTH>1000</GRID_LENGTH>
+    <GRID_LENGTH>500</GRID_LENGTH>
     <ORIGIN_X>0</ORIGIN_X>
     <ORIGIN_Y>0</ORIGIN_Y>
     <ORIGIN_POSITION>0</ORIGIN_POSITION>
@@ -24,7 +24,7 @@
   <NETWORK_CONFIGURATION>
     <DEVICE_CONFIGURATION DEVICE_COUNT="20">
       <DEVICE KEY="WirelessNode" DEVICE_NAME="Wireless_Node_Omni_Ant_1" DEVICE_ID="1" TYPE="NODE" WIRESHARK_OPTION="Disable" INTERFACE_COUNT="1" DEVICE_ICON="WirelessNode.png">
-        <POS_3D X_OR_LON="{0}" Y_OR_LAT="500" Z="0" COORDINATE_SYSTEM="Cartesian" ICON_ROTATION="0">
+        <POS_3D X_OR_LON="{0}" Y_OR_LAT="250" Z="0" COORDINATE_SYSTEM="Cartesian" ICON_ROTATION="0">
           <MOBILITY MODEL="NO_MOBILITY" />
         </POS_3D>
         <INTERFACE ID="1" INTERFACE_NAME="Interface_1 (Wireless)" INTERFACE_TYPE="WIRELESS">
@@ -73,7 +73,7 @@
         </LAYER>
       </DEVICE>
       <DEVICE KEY="WirelessNode" DEVICE_NAME="Wireless_Node_Omni_Ant_2" DEVICE_ID="2" TYPE="NODE" WIRESHARK_OPTION="Disable" INTERFACE_COUNT="1" DEVICE_ICON="WirelessNode.png">
-        <POS_3D X_OR_LON="{1}" Y_OR_LAT="500" Z="0" COORDINATE_SYSTEM="Cartesian" ICON_ROTATION="0">
+        <POS_3D X_OR_LON="{1}" Y_OR_LAT="250" Z="0" COORDINATE_SYSTEM="Cartesian" ICON_ROTATION="0">
           <MOBILITY MODEL="NO_MOBILITY" />
         </POS_3D>
         <INTERFACE ID="1" INTERFACE_NAME="Interface_1 (Wireless)" INTERFACE_TYPE="WIRELESS">
@@ -122,7 +122,7 @@
         </LAYER>
       </DEVICE>
       <DEVICE KEY="WirelessNode" DEVICE_NAME="Wireless_Node_Omni_Ant_3" DEVICE_ID="3" TYPE="NODE" WIRESHARK_OPTION="Disable" INTERFACE_COUNT="1" DEVICE_ICON="WirelessNode.png">
-        <POS_3D X_OR_LON="{2}" Y_OR_LAT="500.0000000000001" Z="0" COORDINATE_SYSTEM="Cartesian" ICON_ROTATION="0">
+        <POS_3D X_OR_LON="{2}" Y_OR_LAT="250" Z="0" COORDINATE_SYSTEM="Cartesian" ICON_ROTATION="0">
           <MOBILITY MODEL="NO_MOBILITY" />
         </POS_3D>
         <INTERFACE ID="1" INTERFACE_NAME="Interface_1 (Wireless)" INTERFACE_TYPE="WIRELESS">
@@ -171,7 +171,7 @@
         </LAYER>
       </DEVICE>
       <DEVICE KEY="WirelessNode" DEVICE_NAME="Wireless_Node_Omni_Ant_4" DEVICE_ID="4" TYPE="NODE" WIRESHARK_OPTION="Disable" INTERFACE_COUNT="1" DEVICE_ICON="WirelessNode.png">
-        <POS_3D X_OR_LON="{3}" Y_OR_LAT="500" Z="0" COORDINATE_SYSTEM="Cartesian" ICON_ROTATION="0">
+        <POS_3D X_OR_LON="{3}" Y_OR_LAT="250" Z="0" COORDINATE_SYSTEM="Cartesian" ICON_ROTATION="0">
           <MOBILITY MODEL="NO_MOBILITY" />
         </POS_3D>
         <INTERFACE ID="1" INTERFACE_NAME="Interface_1 (Wireless)" INTERFACE_TYPE="WIRELESS">
@@ -220,7 +220,7 @@
         </LAYER>
       </DEVICE>
       <DEVICE KEY="WirelessNode" DEVICE_NAME="Wireless_Node_Omni_Ant_5" DEVICE_ID="5" TYPE="NODE" WIRESHARK_OPTION="Disable" INTERFACE_COUNT="1" DEVICE_ICON="WirelessNode.png">
-        <POS_3D X_OR_LON="{4}" Y_OR_LAT="500.0000000000001" Z="0" COORDINATE_SYSTEM="Cartesian" ICON_ROTATION="0">
+        <POS_3D X_OR_LON="{4}" Y_OR_LAT="250" Z="0" COORDINATE_SYSTEM="Cartesian" ICON_ROTATION="0">
           <MOBILITY MODEL="NO_MOBILITY" />
         </POS_3D>
         <INTERFACE ID="1" INTERFACE_NAME="Interface_1 (Wireless)" INTERFACE_TYPE="WIRELESS">
@@ -269,7 +269,7 @@
         </LAYER>
       </DEVICE>
       <DEVICE KEY="WirelessNode" DEVICE_NAME="Wireless_Node_Omni_Ant_6" DEVICE_ID="6" TYPE="NODE" WIRESHARK_OPTION="Disable" INTERFACE_COUNT="1" DEVICE_ICON="WirelessNode.png">
-        <POS_3D X_OR_LON="{5}" Y_OR_LAT="500" Z="0" COORDINATE_SYSTEM="Cartesian" ICON_ROTATION="0">
+        <POS_3D X_OR_LON="{5}" Y_OR_LAT="250" Z="0" COORDINATE_SYSTEM="Cartesian" ICON_ROTATION="0">
           <MOBILITY MODEL="NO_MOBILITY" />
         </POS_3D>
         <INTERFACE ID="1" INTERFACE_NAME="Interface_1 (Wireless)" INTERFACE_TYPE="WIRELESS">
@@ -318,7 +318,7 @@
         </LAYER>
       </DEVICE>
       <DEVICE KEY="WirelessNode" DEVICE_NAME="Wireless_Node_Omni_Ant_7" DEVICE_ID="7" TYPE="NODE" WIRESHARK_OPTION="Disable" INTERFACE_COUNT="1" DEVICE_ICON="WirelessNode.png">
-        <POS_3D X_OR_LON="{6}" Y_OR_LAT="500" Z="0" COORDINATE_SYSTEM="Cartesian" ICON_ROTATION="0">
+        <POS_3D X_OR_LON="{6}" Y_OR_LAT="250" Z="0" COORDINATE_SYSTEM="Cartesian" ICON_ROTATION="0">
           <MOBILITY MODEL="NO_MOBILITY" />
         </POS_3D>
         <INTERFACE ID="1" INTERFACE_NAME="Interface_1 (Wireless)" INTERFACE_TYPE="WIRELESS">
@@ -367,7 +367,7 @@
         </LAYER>
       </DEVICE>
       <DEVICE KEY="WirelessNode" DEVICE_NAME="Wireless_Node_Omni_Ant_8" DEVICE_ID="8" TYPE="NODE" WIRESHARK_OPTION="Disable" INTERFACE_COUNT="1" DEVICE_ICON="WirelessNode.png">
-        <POS_3D X_OR_LON="{7}" Y_OR_LAT="500" Z="0" COORDINATE_SYSTEM="Cartesian" ICON_ROTATION="0">
+        <POS_3D X_OR_LON="{7}" Y_OR_LAT="250" Z="0" COORDINATE_SYSTEM="Cartesian" ICON_ROTATION="0">
           <MOBILITY MODEL="NO_MOBILITY" />
         </POS_3D>
         <INTERFACE ID="1" INTERFACE_NAME="Interface_1 (Wireless)" INTERFACE_TYPE="WIRELESS">
@@ -416,7 +416,7 @@
         </LAYER>
       </DEVICE>
       <DEVICE KEY="WirelessNode" DEVICE_NAME="Wireless_Node_Omni_Ant_9" DEVICE_ID="9" TYPE="NODE" WIRESHARK_OPTION="Disable" INTERFACE_COUNT="1" DEVICE_ICON="WirelessNode.png">
-        <POS_3D X_OR_LON="{8}" Y_OR_LAT="500" Z="0" COORDINATE_SYSTEM="Cartesian" ICON_ROTATION="0">
+        <POS_3D X_OR_LON="{8}" Y_OR_LAT="250" Z="0" COORDINATE_SYSTEM="Cartesian" ICON_ROTATION="0">
           <MOBILITY MODEL="NO_MOBILITY" />
         </POS_3D>
         <INTERFACE ID="1" INTERFACE_NAME="Interface_1 (Wireless)" INTERFACE_TYPE="WIRELESS">
@@ -465,7 +465,7 @@
         </LAYER>
       </DEVICE>
       <DEVICE KEY="WirelessNode" DEVICE_NAME="Wireless_Node_Omni_Ant_10" DEVICE_ID="10" TYPE="NODE" WIRESHARK_OPTION="Disable" INTERFACE_COUNT="1" DEVICE_ICON="WirelessNode.png">
-        <POS_3D X_OR_LON="{9}" Y_OR_LAT="500" Z="0" COORDINATE_SYSTEM="Cartesian" ICON_ROTATION="0">
+        <POS_3D X_OR_LON="{9}" Y_OR_LAT="250" Z="0" COORDINATE_SYSTEM="Cartesian" ICON_ROTATION="0">
           <MOBILITY MODEL="NO_MOBILITY" />
         </POS_3D>
         <INTERFACE ID="1" INTERFACE_NAME="Interface_1 (Wireless)" INTERFACE_TYPE="WIRELESS">
@@ -514,7 +514,7 @@
         </LAYER>
       </DEVICE>
       <DEVICE KEY="WirelessNode" DEVICE_NAME="Wireless_Node_Omni_Ant_11" DEVICE_ID="11" TYPE="NODE" WIRESHARK_OPTION="Disable" INTERFACE_COUNT="1" DEVICE_ICON="WirelessNode.png">
-        <POS_3D X_OR_LON="{10}" Y_OR_LAT="500" Z="0" COORDINATE_SYSTEM="Cartesian" ICON_ROTATION="0">
+        <POS_3D X_OR_LON="{10}" Y_OR_LAT="250" Z="0" COORDINATE_SYSTEM="Cartesian" ICON_ROTATION="0">
           <MOBILITY MODEL="NO_MOBILITY" />
         </POS_3D>
         <INTERFACE ID="1" INTERFACE_NAME="Interface_1 (Wireless)" INTERFACE_TYPE="WIRELESS">
@@ -563,7 +563,7 @@
         </LAYER>
       </DEVICE>
       <DEVICE KEY="WirelessNode" DEVICE_NAME="Wireless_Node_Omni_Ant_12" DEVICE_ID="12" TYPE="NODE" WIRESHARK_OPTION="Disable" INTERFACE_COUNT="1" DEVICE_ICON="WirelessNode.png">
-        <POS_3D X_OR_LON="{11}" Y_OR_LAT="500" Z="0" COORDINATE_SYSTEM="Cartesian" ICON_ROTATION="0">
+        <POS_3D X_OR_LON="{11}" Y_OR_LAT="250" Z="0" COORDINATE_SYSTEM="Cartesian" ICON_ROTATION="0">
           <MOBILITY MODEL="NO_MOBILITY" />
         </POS_3D>
         <INTERFACE ID="1" INTERFACE_NAME="Interface_1 (Wireless)" INTERFACE_TYPE="WIRELESS">
@@ -612,7 +612,7 @@
         </LAYER>
       </DEVICE>
       <DEVICE KEY="WirelessNode" DEVICE_NAME="Wireless_Node_Omni_Ant_13" DEVICE_ID="13" TYPE="NODE" WIRESHARK_OPTION="Disable" INTERFACE_COUNT="1" DEVICE_ICON="WirelessNode.png">
-        <POS_3D X_OR_LON="{12}" Y_OR_LAT="500" Z="0" COORDINATE_SYSTEM="Cartesian" ICON_ROTATION="0">
+        <POS_3D X_OR_LON="{12}" Y_OR_LAT="250" Z="0" COORDINATE_SYSTEM="Cartesian" ICON_ROTATION="0">
           <MOBILITY MODEL="NO_MOBILITY" />
         </POS_3D>
         <INTERFACE ID="1" INTERFACE_NAME="Interface_1 (Wireless)" INTERFACE_TYPE="WIRELESS">
@@ -661,7 +661,7 @@
         </LAYER>
       </DEVICE>
       <DEVICE KEY="WirelessNode" DEVICE_NAME="Wireless_Node_Omni_Ant_14" DEVICE_ID="14" TYPE="NODE" WIRESHARK_OPTION="Disable" INTERFACE_COUNT="1" DEVICE_ICON="WirelessNode.png">
-        <POS_3D X_OR_LON="{13}" Y_OR_LAT="500" Z="0" COORDINATE_SYSTEM="Cartesian" ICON_ROTATION="0">
+        <POS_3D X_OR_LON="{13}" Y_OR_LAT="250" Z="0" COORDINATE_SYSTEM="Cartesian" ICON_ROTATION="0">
           <MOBILITY MODEL="NO_MOBILITY" />
         </POS_3D>
         <INTERFACE ID="1" INTERFACE_NAME="Interface_1 (Wireless)" INTERFACE_TYPE="WIRELESS">
@@ -710,7 +710,7 @@
         </LAYER>
       </DEVICE>
       <DEVICE KEY="WirelessNode" DEVICE_NAME="Wireless_Node_Omni_Ant_15" DEVICE_ID="15" TYPE="NODE" WIRESHARK_OPTION="Disable" INTERFACE_COUNT="1" DEVICE_ICON="WirelessNode.png">
-        <POS_3D X_OR_LON="{14}" Y_OR_LAT="500" Z="0" COORDINATE_SYSTEM="Cartesian" ICON_ROTATION="0">
+        <POS_3D X_OR_LON="{14}" Y_OR_LAT="250" Z="0" COORDINATE_SYSTEM="Cartesian" ICON_ROTATION="0">
           <MOBILITY MODEL="NO_MOBILITY" />
         </POS_3D>
         <INTERFACE ID="1" INTERFACE_NAME="Interface_1 (Wireless)" INTERFACE_TYPE="WIRELESS">
@@ -759,7 +759,7 @@
         </LAYER>
       </DEVICE>
       <DEVICE KEY="WirelessNode" DEVICE_NAME="Wireless_Node_Omni_Ant_16" DEVICE_ID="16" TYPE="NODE" WIRESHARK_OPTION="Disable" INTERFACE_COUNT="1" DEVICE_ICON="WirelessNode.png">
-        <POS_3D X_OR_LON="{15}" Y_OR_LAT="500" Z="0" COORDINATE_SYSTEM="Cartesian" ICON_ROTATION="0">
+        <POS_3D X_OR_LON="{15}" Y_OR_LAT="250" Z="0" COORDINATE_SYSTEM="Cartesian" ICON_ROTATION="0">
           <MOBILITY MODEL="NO_MOBILITY" />
         </POS_3D>
         <INTERFACE ID="1" INTERFACE_NAME="Interface_1 (Wireless)" INTERFACE_TYPE="WIRELESS">
@@ -808,7 +808,7 @@
         </LAYER>
       </DEVICE>
       <DEVICE KEY="WirelessNode" DEVICE_NAME="Wireless_Node_Omni_Ant_17" DEVICE_ID="17" TYPE="NODE" WIRESHARK_OPTION="Disable" INTERFACE_COUNT="1" DEVICE_ICON="WirelessNode.png">
-        <POS_3D X_OR_LON="{16}" Y_OR_LAT="500" Z="0" COORDINATE_SYSTEM="Cartesian" ICON_ROTATION="0">
+        <POS_3D X_OR_LON="{16}" Y_OR_LAT="250" Z="0" COORDINATE_SYSTEM="Cartesian" ICON_ROTATION="0">
           <MOBILITY MODEL="NO_MOBILITY" />
         </POS_3D>
         <INTERFACE ID="1" INTERFACE_NAME="Interface_1 (Wireless)" INTERFACE_TYPE="WIRELESS">
@@ -857,7 +857,7 @@
         </LAYER>
       </DEVICE>
       <DEVICE KEY="WirelessNode" DEVICE_NAME="Wireless_Node_Omni_Ant_18" DEVICE_ID="18" TYPE="NODE" WIRESHARK_OPTION="Disable" INTERFACE_COUNT="1" DEVICE_ICON="WirelessNode.png">
-        <POS_3D X_OR_LON="{17}" Y_OR_LAT="500" Z="0" COORDINATE_SYSTEM="Cartesian" ICON_ROTATION="0">
+        <POS_3D X_OR_LON="{17}" Y_OR_LAT="250" Z="0" COORDINATE_SYSTEM="Cartesian" ICON_ROTATION="0">
           <MOBILITY MODEL="NO_MOBILITY" />
         </POS_3D>
         <INTERFACE ID="1" INTERFACE_NAME="Interface_1 (Wireless)" INTERFACE_TYPE="WIRELESS">
@@ -906,7 +906,7 @@
         </LAYER>
       </DEVICE>
       <DEVICE KEY="WirelessNode" DEVICE_NAME="Wireless_Node_Omni_Ant_19" DEVICE_ID="19" TYPE="NODE" WIRESHARK_OPTION="Disable" INTERFACE_COUNT="1" DEVICE_ICON="WirelessNode.png">
-        <POS_3D X_OR_LON="{18}" Y_OR_LAT="500.0000000000002" Z="0" COORDINATE_SYSTEM="Cartesian" ICON_ROTATION="0">
+        <POS_3D X_OR_LON="{18}" Y_OR_LAT="250" Z="0" COORDINATE_SYSTEM="Cartesian" ICON_ROTATION="0">
           <MOBILITY MODEL="NO_MOBILITY" />
         </POS_3D>
         <INTERFACE ID="1" INTERFACE_NAME="Interface_1 (Wireless)" INTERFACE_TYPE="WIRELESS">
@@ -955,7 +955,7 @@
         </LAYER>
       </DEVICE>
       <DEVICE KEY="WirelessNode" DEVICE_NAME="Wireless_Node_Omni_Ant_20" DEVICE_ID="20" TYPE="NODE" WIRESHARK_OPTION="Disable" INTERFACE_COUNT="1" DEVICE_ICON="WirelessNode.png">
-        <POS_3D X_OR_LON="{19}" Y_OR_LAT="500" Z="0" COORDINATE_SYSTEM="Cartesian" ICON_ROTATION="0">
+        <POS_3D X_OR_LON="{19}" Y_OR_LAT="250" Z="0" COORDINATE_SYSTEM="Cartesian" ICON_ROTATION="0">
           <MOBILITY MODEL="NO_MOBILITY" />
         </POS_3D>
         <INTERFACE ID="1" INTERFACE_NAME="Interface_1 (Wireless)" INTERFACE_TYPE="WIRELESS">
